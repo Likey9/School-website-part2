@@ -1,0 +1,19 @@
+#video{
+  width:100%;
+  height:590px;
+  border:none;
+}
+.my_nav_bar{
+  position:sticky;
+  z-index: 9999999;
+  top:0;
+}
+.school_maindiv{
+  border:1px solid lightslategray;
+}
+.school_maindiv img{
+  width:100%
+}
+.school_maindiv h5, .school_maindiv p{
+  margin:20px;
+}
